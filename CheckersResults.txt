@@ -1,0 +1,39 @@
+All measurements taken with depth limit of 3 averaged across 50 games
+
+Random Moves:
+Average: 367
+
+VerticalDisplacement:
+0 Random Moves (fresh board): 113
+10 Random Moves (early game): 124
+40 Random Moves (mid game): 142
+80 Random Moves (late game): 176
+
+VerticalHorizontalDisplacement with vertical distance weight of 10:
+0 Random Moves (fresh board): 103
+10 Random Moves (early game): 111
+40 Random Moves (mid game): 133
+80 Random Moves (late game): 156
+
+VerticalHorizontalDisplacement with vertical distance weight of 5:
+0 Random Moves (fresh board): 99
+10 Random Moves (early game): 117
+40 Random Moves (mid game): 135
+80 Random Moves (late game): 160
+
+BackPieceStrategy:
+0 Random Moves (fresh board): 94
+10 Random Moves (early game): 102
+40 Random Moves (mid game): 124
+80 Random Moves (late game): 146
+
+
+Depth Limit Times:
+
+All measurements taken using Verticalhorizontal Heuristic starting with 10 random moves across 10 games
+
+1: 43 millis
+2: 305 millis
+3: 6.124 s
+4: 58.686 s
+5: measured one game and it took 27.73 min
